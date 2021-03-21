@@ -6,4 +6,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=kurages&show_icons=true&theme=dark&hide=stars&count_private=true)](https://github.com/kurages)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
