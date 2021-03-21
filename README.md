@@ -1,6 +1,6 @@
 # What's New?
 
-※only public repositories
+※Statistics for public repositories only.
 
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kurages&theme=dark&layout=compact&count_private=true)](https://github.com/kurages)
 
