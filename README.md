@@ -1,10 +1,10 @@
-# What's New?
+![Profile icon](https://github.com/kurages.png)
 
-※Statistics for public repositories only.
+# kurages
+## Languages
+- C-lang
+- Python
 
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kurages&theme=dark&layout=compact&count_private=true)](https://github.com/kurages)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=kurages&show_icons=true&theme=dark&hide=stars&count_private=true)](https://github.com/kurages)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## Contact
+Twitter: [@myk_musou](https://twitter.com/myk_musou)
+mail: [kurages.git@outlook.com](mailto:kurages.git@outlook.com)
