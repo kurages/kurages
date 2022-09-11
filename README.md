@@ -4,7 +4,11 @@
 ## Languages
 - C-lang
 - Python
+- Java
+- JavaScript
+- TypeScript
+
+
 
 ## Contact
-Twitter: [@myk_musou](https://twitter.com/myk_musou)  
 mail: [kurages.git@outlook.com](mailto:kurages.git@outlook.com)  
